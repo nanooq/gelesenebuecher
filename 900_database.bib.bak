@@ -11,6 +11,20 @@
   url =       {https://www.google.com.ph/patents/US4293575}
 }
 
+@Book{Druckerman2013,
+  title =     {Warum französische Kinder keine Nervensägen sind},
+  publisher = {Wilhelm Goldmann Verlag},
+  year =      {2013},
+  author =    {Pamela Druckerman},
+  address =   {München},
+  edition =   {8},
+  keywords =  {Erziehung},
+  review =    {Dieses Buch ist ein Weihnachtsgeschenk von der Schwester meiner Freundin. Zum Inhalt hat das Buch die unterschiedliche Kindererziehung in den Vereinigten Staaten und Frankreich. Betrachtet werden die gegensätzlichen Grundannahmen und die Folge auf den Alltag der Eltern und Kinder. 
+Ich war erstaunt, dass ausgerechnet die Vereinigten Staaten mit Helicopter Eltern meine Erwartung ihrer liberalen und hemdsärmelige Kultur brechen. Durch meine Mutter bin ich teilweise durch die Französische Schule und bezeichne mich als befangen. 
+Nichtsdestoweniger scheint der Appell der Autorin, Kinder mit Respekt zu begegnen um sie auf ihr Erwachsensein vorzubereiten vernünftig zu sein.},
+  url =       {http://www.pameladruckerman.com/books/warum-franzosische-kinder-keine-nervensagen-sind-german-translation-of-bringing-up-bebe/}
+}
+
 @Misc{FinniganBlanchard2009,
   author =    {Finnigan, T.J.A. and Blanchard, R.},
   title =     {Edible fungi},
@@ -101,4 +115,12 @@ UNITED STATES PATENTS Number Name Date 2,346,011 Damm Apr. 4, 1944 OTHER REFEREN
   file =      {Torev1980.pdf:Torev1980.pdf:PDF},
   publisher = {Google Patents},
   url =       {https://www.google.com.ph/patents/US4212947}
+}
+
+@comment{jabref-meta: groupsversion:3;}
+
+@comment{jabref-meta: groupstree:
+0 AllEntriesGroup:;
+1 ExplicitGroup:Patente\;0\;CockramMunden1981\;FinniganBlanchard2009\;Nord1948\;Torev1980\;;
+1 ExplicitGroup:Unterhaltung\;0\;;
 }
